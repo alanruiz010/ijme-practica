@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Que ser camina en cuatro patas al amanecer, dos patas al mediodia y tres patas al atardecer?</h2>
+
+<form>
+  <input type="radio" name="acertijo" value="La culebra" checked> La culebra<br>
+  <input type="radio" name="acertijo" value="El hombre"> El hombre<br>
+  <input type="radio" name="acertijo" value="La soledad"> La soledad<br>
+  <input type="radio" name="acertijo" value="El Fantasma"> El fantasma
+</form> 
+<h2>Esta cosa se devora a todas las cosas ;
+
+Pájaros, bestias, árboles, flores ;
+
+Carcome el hierro, muerde el acero ;
+
+Muele duras piedras y las reduce a harina ;
+
+Mata al rey, arruina la ciudad ,
+
+Y derriba a la montaña .
+</h2>
+
+<form>
+  <input type="radio" name="enigma" value="El Kraken" checked> El Kraken<br>
+  <input type="radio" name="enigma" value="Un Tornado">Un Tornado<br>
+  <input type="radio" name="enigma" value="El Tiempo"> El Tiempo<br>
+  <input type="radio" name="enigma" value="El Acido"> El Acido
+</form> 
+<h2>Una gran moneda dorada
+que vale mucho
+y por la que no pagas nada </h2>
+<form>
+  <input type="radio" name="enigma" value="El Oro" checked> El Oro<br>
+  <input type="radio" name="enigma" value="El Girasol"> El Girasol<br>
+  <input type="radio" name="enigma" value="El Sol"> El Sol<br>
+  <input type="radio" name="enigma" value="La Luna"> La Luna<br>
+  
+</form>
+
+<section>
+  <nav>
+    <ul>
+      <li><a href="./index.html">London</a></li>
+    </ul>
+  </nav>
+</body>
+</html>
